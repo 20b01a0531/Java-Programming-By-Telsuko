@@ -19,7 +19,7 @@ class UpdatedWagonR extends WagonR{  //concrete class
     }
 }
 
-public class 61_Abstract_Keyword{
+public class 61_AbstractKeyword{
     public static void main(String a[]){
         Car obj = new UpdatedWagonR();
         obj.drive();
